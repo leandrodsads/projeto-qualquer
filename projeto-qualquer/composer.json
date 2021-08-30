@@ -1,0 +1,12 @@
+{
+    "name": "leandrosilva/projeto-qualquer",
+    "authors": [
+        {
+            "name": "leandrosilva",
+            "email": "leandrosilva@hfa.mil.br"
+        }
+    ],
+    "require": {
+        "wead/digital-cep": "^1.0"
+    }
+}
